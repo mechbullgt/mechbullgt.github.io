@@ -1,1 +1,0 @@
-# mechbullgt.github.io
