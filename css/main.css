@@ -170,8 +170,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.5; }
   body#bg-img {
-    background: url(../img/background.png);
-    background-attachment: fixed;
+    background: url(../img/backgroundNew.png);
+    background-attachment: local;
     background-size: cover; 
     opacity: 0.9;
   }
